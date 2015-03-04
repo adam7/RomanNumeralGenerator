@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RomanNumeralGeneratorTest
+namespace RomanNumeralGenerator
 {
     /// <summary>
     /// The implementation of the interface for generating Roman numerals using a dictionary.

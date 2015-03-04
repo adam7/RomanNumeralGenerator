@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RomanNumeralGeneratorTest
+namespace RomanNumeralGenerator
 {
     public interface IRomanNumeralGenerator
     {
