@@ -6,8 +6,6 @@ namespace RomanNumeralGenerator
 {
     /// <summary>
     /// The implementation of the interface for generating Roman numerals using a dictionary.
-    /// N.B. I have included class/test/interface all in one namespace/project for simplicity in this sample.
-    /// Obviously in a real world scenario the code would be correctly namespaced.
     /// </summary>
     public class RomanNumeralGenerator : IRomanNumeralGenerator
     {
